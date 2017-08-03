@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: service-registry-consul
+
+  cloud:
+    consul:
+      config:
+        enabled: true
+        format: YAML

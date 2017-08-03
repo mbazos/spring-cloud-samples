@@ -1,0 +1,4 @@
+key: "this came from a local file"
+
+endpoints:
+  sensitive: false
